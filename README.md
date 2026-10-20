@@ -53,7 +53,6 @@ with the dropdown options (`form_options.json`) for use in a salary-estimator fo
 2. **Salary Intelligence** – salary by experience level, location and remote flag.
 3. **Skills & Industry Intelligence** – top skills, top industries, top remote-hiring companies.
 
-PDF export: [`dashboard/final_dashboard.pdf`](dashboard/final_dashboard.pdf)
 
 ## 🔑 Key Findings
 
